@@ -1,5 +1,5 @@
 # Vazier-release
-Binary installers for Vazier and release notes etc.
+Binary installers and documentation for Vazier
 
 Vazier is a program for designing vases with curved staves.
 It creates a 3d model (.stl) for an individual stave.  
