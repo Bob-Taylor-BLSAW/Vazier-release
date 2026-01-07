@@ -1,8 +1,10 @@
 # Vazier-release
 Binary installers and documentation for Vazier
 
-Vazier is a program for designing vases with curved staves.
-It creates a 3d model (.stl) for an individual stave.  
-Staves are then cut on a CNC router, glued up and turned on a lathe.
-
-This is only useful if you have access to both a CNC router and a lathe.
+Vazier allows turners to design unique stave-segmented vases 
+with beautiful curved compound miter joints.
+Use Vazier to draw the vase and the seam between staves.
+Vazier builds a 3d model for 1 stave.
+Save an STL file for the model.
+Import the STL file in CAD/CAM software (Vectric VCarve etc).
+Cut staves on a CNC router, glue htem up and turn on a lathe.
